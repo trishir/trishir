@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @trishir
 - 👀 I’m interested in Fullstack Development and Machine Learning
-- 🌱 I’m currently learning HTML, CSS and JavaScript.
+- 🌱 I’m currently learning HTML, CSS, JavaScript and PyTorch.
